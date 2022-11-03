@@ -1,6 +1,6 @@
 # cep_app
 
-A new Flutter project.
+Projeto simples para verificar cep.
 
 ## Getting Started
 
